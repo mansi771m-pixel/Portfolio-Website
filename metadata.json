@@ -1,0 +1,6 @@
+{
+  "name": "Mansi Ranjan Portfolio",
+  "description": "A modern, highly responsive, interactive portfolio website for Mansi Ranjan, an Aspiring Software Developer, featuring smooth scrolling, dark/light modes, interactive skill cards, education and experience timelines, project showcase, and a contact form with animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
